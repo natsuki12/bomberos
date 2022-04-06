@@ -1,0 +1,17 @@
+***** IMPORTANTE FALTA TODO DE OPERADOR ******
+1.- Tomar en cuenta mantener el registro de todas las solicitudes hechas
+2.- Si un inmueble modifica sus datos (datos sensibles), su informacion vieja debe ser almacenada en otra tabla e inmediatamente todo
+lo referente a solicitudes se le cancela inmediatamente.
+3.- En inspecciones tomar en cuenta que el ESTADO de la solicitud se toma en cuenta para mostrar inspecciones pendiente o no
+en busqueda de que no se le permita al inspector modificar, reinspeccionar o registrar una nueva.
+Es decir si la solicitud esta denegada o aceptada no se muestra mas nada de inspecciones..
+Para acoodar esto debo esperar a miguel a que haga lo de las solicitudes
+
+
+USUARIO ADMINISTRADOR:
+admin
+admin_NE2019
+
+
+MENSAJE PARA MIGUEL:
+Listado de Inspecciones lo puedes sacar de la seccion de Adm_Bomberos en Lista..
